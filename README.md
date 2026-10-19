@@ -1,2 +1,0 @@
-# Cear-chat
-Rede social
